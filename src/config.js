@@ -14,6 +14,10 @@ module.exports = {
       name: 'PlayStore',
       url: 'https://play.google.com/store/apps/dev?id=5326780932871565453',
     },
+    {
+      name: 'YouTube',
+      url: 'https://www.youtube.com/c/NepTech-mrAjax',
+    },
   ],
 
   navLinks: [
@@ -28,6 +32,10 @@ module.exports = {
     {
       name: 'Work',
       url: '/#projects',
+    },
+    {
+      name: 'Certifications',
+      url: '/#certs',
     },
     {
       name: 'Contact',
