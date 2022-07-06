@@ -13,4 +13,4 @@ tech:
   - Google Cloud
 ---
 
-An educational app for entrance preparation of BA LLB, LLB, LLM and Advocate Liscensce. Available on [Play Store](https://play.google.com/store/apps/details?id=com.platoacademyoflaw).
+An educational app for entrance preparation of BA LLB, LLB, LLM and Advocate License. Available on [Play Store](https://play.google.com/store/apps/details?id=com.platoacademyoflaw).
