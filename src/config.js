@@ -7,8 +7,8 @@ module.exports = {
       url: 'https://github.com/beemarsh',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bee.marsh.33',
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/bimarsh-bhusal',
     },
     {
       name: 'PlayStore',
